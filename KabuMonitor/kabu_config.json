@@ -1,0 +1,9 @@
+{
+  "all_tickers": [
+    "7203.T"
+  ],
+  "threshold": 0.1,
+  "sound_file": "",
+  "font_size": 9,
+  "table_total_width": null
+}
